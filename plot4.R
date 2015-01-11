@@ -34,3 +34,4 @@ plot(data$Global_reactive_power~data$Datetime, type="l",ylab="Global_reactive_po
 })
 dev.off()
 
+
